@@ -118,29 +118,6 @@ The dataset contains **34,500+ e-commerce orders** with information such as:
 
 ---
 
-## 📷 Dashboard Preview
-
-(Add a screenshot of your dashboard here)
-
-Example:
-
-![Dashboard](images/dashboard.png)
-
----
-
-## 📁 Project Structure
-
-```
-📂 E-commerce-Order-Return-Analysis
-│
-├── Dashboard.xlsx
-├── README.md
-├── dashboard.png
-└── dataset.csv
-```
-
----
-
 ## 🚀 Skills Demonstrated
 
 - Data Cleaning
@@ -159,5 +136,5 @@ Example:
 
 **Monika Banothe**
 
-- LinkedIn: *(Add your LinkedIn profile)*
+- LinkedIn: www.linkedin.com/in/monika-banothe
 - GitHub: https://github.com/Monika-Banothe
